@@ -1,0 +1,12 @@
+envdd/
+app/utils/train/t5-qa-model/
+*.safetensors
+*.pth
+*.models
+*.pt
+*.bin
+*.csv
+*.zip
+__pycache__/
+.env
+*.log
